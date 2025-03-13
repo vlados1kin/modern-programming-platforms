@@ -30,7 +30,6 @@ public class Program
             threads[i].Start();
         }
         for (var i = 0; i < 5; i++)
-            
         {
             threads[i].Join();
         }
