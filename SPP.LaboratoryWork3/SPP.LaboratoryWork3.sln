@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPP.LaboratoryWork3", "SPP.LaboratoryWork3\SPP.LaboratoryWork3.csproj", "{213EEDB0-66C5-4137-A0C1-AAE988C3C98A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary", "TestLibrary\TestLibrary.csproj", "{53D8E454-11AD-4895-BEA5-4ACBE67B77A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213EEDB0-66C5-4137-A0C1-AAE988C3C98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213EEDB0-66C5-4137-A0C1-AAE988C3C98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213EEDB0-66C5-4137-A0C1-AAE988C3C98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213EEDB0-66C5-4137-A0C1-AAE988C3C98A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D8E454-11AD-4895-BEA5-4ACBE67B77A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D8E454-11AD-4895-BEA5-4ACBE67B77A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D8E454-11AD-4895-BEA5-4ACBE67B77A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D8E454-11AD-4895-BEA5-4ACBE67B77A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
